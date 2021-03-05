@@ -1,3 +1,3 @@
 # Medium-Clone
 
-Bootstrap ile Medium Anasayfasının Kopyalama Uygulaması
+Bootstrap ile Medium Anasayfasının Clone Uygulaması
